@@ -1,5 +1,5 @@
-# Bitacora-Comandos
-Bitácora Comandos - Sistemas Operativos
+# Bitácora de Comandos
+Bitácora de Comandos - Sistemas Operativos
 | Comando | Descripción | Ejemplo de uso |
 | --- | --- | --- |
 | `clear` | Limpia la ventana de la consola. | `clear` para eliminar todas las líneas de los comandos que se corrieron anteriormente y tener más espacio para los nuevos. |
