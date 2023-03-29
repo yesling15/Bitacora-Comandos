@@ -14,4 +14,7 @@ Bitácora de Comandos - Sistemas Operativos
 | `sudo kill -9 ID` | Termina un proceso que se esté ejecutando, indicando su ID. | `sudo kill -9 54178` para cerrar Firefox.|
 | `top` | Muestra los procesos que se estén ejecutando en tiempo real y su consumo de recursos. | `top` para saber si un proceso está corriendo en ese momento. |
 | `htop` | Misma funcionalidad que `top`, solo que incluye una interfaz más agradable al usuario. | `htop` para saber la cantidad de CPU que consume cada proceso. |
-| `pstree` | Permite visualizar el árbol de procesos que se estén ejecutando. | `pstree` para saber cuáles procesos están enlazados entre sí.  |
+| `pstree` | Permite visualizar el árbol de procesos que se estén ejecutando. | `pstree` para saber cuáles procesos están enlazados entre sí. |
+| `sudo pacman -Sy` | Actualiza los paquetes disponibles del sistema operativo. | `sudo pacman -Sy` para correr las actualizaciones pendientes. |
+| `sudo pacman -S` | Instala nuevos paquetes. | `sudo pacman -S yay` para instalar el repositorio AUR, el cual tiene acceso a otros paquetes de software que no están disponibles en el repositorio principal. |
+| `yay -S` | Instala paquetes por medio del instalador yay. | `yay -S google-chrome` para instalar Google Chrome. |
